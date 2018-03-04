@@ -19,4 +19,4 @@ Test the functions with your own main function and inputs.
 
 ## License
 
-[MIT © Petru Dobos.](../LICENSE)
+[MIT © Petru Dobos.](https://github.com/petrudobos/libft/blob/master/LICENSE)
