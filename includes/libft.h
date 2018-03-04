@@ -6,7 +6,7 @@
 /*   By: pedobos <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/12/08 22:37:20 by pedobos           #+#    #+#             */
-/*   Updated: 2017/12/18 11:56:54 by pedobos          ###   ########.fr       */
+/*   Updated: 2018/01/29 11:36:35 by pedobos          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -87,5 +87,7 @@ void				ft_int_bsort(int arr[], size_t n);
 int					ft_rand(unsigned int seed, int min, int max);
 int				ft_isspace(int c);
 int				ft_countwords(char *str, char sep);
+void                ft_lstrev(t_list **alst);
+char				*ft_strrealloc(char *old_buf, size_t size);
 
 #endif
