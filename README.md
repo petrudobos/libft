@@ -6,11 +6,9 @@
 
 This is a programming assignment for first year students at Academy+Plus.
 
-*Fillit is a project that lets you discover and/or familiarize yourself with a recurring problematic in programming: searching the optimal solution among a huge set of possibilities, in a respectable timing. In this particular project, you will have to find a way to assemble a given Tetriminos set altogether in the smallest possible square.*
+Recoding functions from the standard C library and other very useful functions while being limited by the use of only 3 basic utilities: malloc(3), free(3) and write(3).
 
-*A Tetriminos is a 4-blocks geometric figure you probably already heard of, thanks to the popular game Tetris.*
-
-More details included in the [fillit.en.pdf][1] file.
+More details included in the [libft.en.pdf][1] file.
 
 ## Contributing
 
@@ -25,4 +23,4 @@ Test the functions with your own main function and inputs.
 
 [MIT © Petru Dobos.](https://github.com/petrudobos/libft/blob/master/LICENSE)
 
-[1]: fb.com
+[1]: https://github.com/petrudobos/libft/blob/master/libft.en.pdf
